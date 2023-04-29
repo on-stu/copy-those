@@ -1,0 +1,18 @@
+{
+  "name": "copy-those",
+  "version": "0.0.1",
+  "description": "this app is for desktop to copy texts with 10 clipboards",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "minsu",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^24.1.3"
+  },
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
